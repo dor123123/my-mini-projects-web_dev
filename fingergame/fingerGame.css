@@ -1,0 +1,27 @@
+body{
+	margin: 0;
+	padding: 0;
+text-align: center
+}
+
+h1{
+	padding: 70px;
+	margin: 70px;
+	font-size: 60px;
+	color: steelblue;
+}
+
+a{
+	text-decoration: none;
+	color: darkred;
+    padding: 70px;
+	margin: 70px;
+	font-size: 50px;
+}
+button{
+	background: white;
+color: black;
+    padding: 10px;
+	margin: 10px;
+	font-size: 30px;	
+}

@@ -1,0 +1,32 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+h1 ,p{
+	text-align: center;
+}
+
+#box{
+	width: 100px;
+	height:100px;	
+	position: relative;
+	left: 500px;
+	top: 25px;
+}
+
+#reat{
+	font-weight: bold;
+}
+
+#color1{
+	color: darkred;
+}
+
+#color2{
+	color: steelblue;
+}
+
+#color3{
+	color: orange;
+}
