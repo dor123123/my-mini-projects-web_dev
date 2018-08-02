@@ -1,4 +1,4 @@
-# my-mini-projects
+# mini-projects
 my front and back end mini projects.
 
 used by  html, css ,js , bootstrap , jqurey for the client side.
